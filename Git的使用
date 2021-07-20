@@ -1,0 +1,16 @@
+1、git仓库的创建
+   
+   git init
+ 
+2、把文件添加到git仓库管理
+
+   git add xxx
+   git commit -m "做的改动说明"
+   
+3、查看Git的状态
+
+   git status
+   
+4、查看git前后修改的不同
+
+   git diff xxx
